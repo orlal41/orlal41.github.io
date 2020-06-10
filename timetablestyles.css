@@ -1,0 +1,19 @@
+table, th, td {
+	border: 2px solid black;
+	font-family: Arial, sans-serif;
+	text-align: centre;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  background-color: red;
+  overflow: hidden;
+}
+
+li {
+  display: inline;
+  padding: 40px;
+  font-size: 60px;
+}

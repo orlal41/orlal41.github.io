@@ -1,0 +1,32 @@
+
+
+body {
+background-color:#ADD8E6;
+}
+
+h1{
+  color: blue;
+  font-size: 50px;
+}
+p{
+  color: red;
+  font-size: 30px;
+}
+
+#gmax-timetable {
+background-color: yellow;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  background-color: red;
+  overflow: hidden;
+}
+
+li {
+  display: inline;
+  padding: 40px;
+  font-size: 60px;
+}

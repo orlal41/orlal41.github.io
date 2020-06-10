@@ -1,0 +1,23 @@
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  background-color: red;
+  overflow: hidden;
+}
+
+li {
+  display: inline;
+  padding: 40px;
+  font-size: 60px;
+}
+
+p {
+  font-size: 25px;
+  background-color: #ADD8E6;
+}
+
+h2 {
+   background-color:#ADD8E6;
+   font-size: 35;
+} 
